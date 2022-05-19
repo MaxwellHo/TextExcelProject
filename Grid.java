@@ -1,5 +1,9 @@
 package textExcel;
 
+//*******************************************************
+//DO NOT MODIFY THIS FILE!!!
+//*******************************************************
+
 public interface Grid 
 {
 	// Grid interface, must be implemented by your Spreadsheet class
